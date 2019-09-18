@@ -1,4 +1,4 @@
 first try:  
 model:decision tree  
 accuracy:0.79  
-rank:top10%  
+rank:top14%  
